@@ -98,8 +98,6 @@ ya no sé que movi, pero eché a perder las fichas
 Proceso de instalación en GCP
 
 https://console.cloud.google.com/
-esteban.gonzalez1501@alumnos.ubiobio.cl
-4gT$mM49U
 
 Menú izquierdo, Compute Engine -> VM Instances
 
